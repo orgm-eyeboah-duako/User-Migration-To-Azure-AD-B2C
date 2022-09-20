@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+
+      "displayName": " Genevieve Kankam",
+      "givenName": "Genvevieve",
+      "surname": "Kankam",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "genevieve.kankammensah@orgmento.com"
+        }
+      ],
+      "password": "Nfq;mo9uq;ksewPsdassger!gwr0gverd",
+      "mustResetPassword": true
+
+    },
+    {
+
+      "displayName": "Patrick Asante",
+      "givenName": "Patrick",
+      "surname": "Asante",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "psimpeasante@orgmento.com"
+        }
+      ],
+      "password": "PaSAdhlsaksfwqj;9wmjnte@Authtrans",
+      "mustResetPassword": true
+
+    },
+
+    {
+      "displayName": "Akwasi Yeboah",
+      "givenName": "Akwasi",
+      "surname": "Yeboah",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "yeboahelvis770@gmail.com"
+        }
+      ],
+      "password": "Tumu0376",
+      "extension_d56493ca-cf38-4efa-9e6d-89b1a4dcf361_mustResetPassword": true
+
+    },
+    {
+      "displayName": "Manuel Capuccino",
+      "givenName": "Manuel",
+      "surname": "Capuccino",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "emmanuel.darko@orgmento.com"
+        }
+      ],
+      "password": "Mandfqep398fq0iqkiwomoijfoi878nfq23h@#ns",
+      "extension_d56493ca-cf38-4efa-9e6d-89b1a4dcf361_mustResetPassword": true
+
+    },
+    {
+
+      "displayName": "Sylvester Ogoe",
+      "givenName": "Sylvester",
+      "surname": "Ogoe",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "sylvester.ogoe@orgmento.com"
+        }
+      ],
+      "password": "S1y5ee!ans"
+    },
+    {
+
+      "displayName": "Ayishetu Ogoe Seidu",
+      "givenName": "Aisha",
+      "surname": "Ogoe",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "ayishetu.seidu@orgmento.com"
+        }
+      ],
+      "password": "1shAdmuj[9e09mqfefqj[e]].0@Ar*s"
+    },
+    {
+
+      "displayName": "Stephen Basoah",
+      "givenName": "Stephen",
+      "surname": "Basoah",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "stephen.basoahdankyi@orgmento.com"
+        }
+      ],
+      "password": "SBs0sadhfpeaKy!_12345df"
+    },
+    {
+
+      "displayName": "Yakubu Azure",
+      "givenName": "Yakubu",
+      "surname": "Azure",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "prince.asihene@orgmento.com"
+        }
+      ],
+      "password": "M4nD3madkhperihy@ReZu!"
+    },
+    {
+
+      "displayName": "Thomas Pleasance",
+      "givenName": "Thomas",
+      "surname": "Pleasance",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "pleasance@ccdc.cam.ac.uk"
+        }
+      ],
+      "password": "Ta5s*278;hfa;dsahiuh[ewp8hj3Wjkdh!"
+    },
+    {
+
+      "displayName": "Joseph Swift",
+      "givenName": "Joseph",
+      "surname": "Swift",
+      "identities": [
+        {
+          "signInType": "emailAddress",
+          "issuerAssignedId": "jswift@ccdc.cam.ac.uk"
+        }
+      ],
+      "password": "Ta5s*278;hfsdfklpdfia;dsahiuh[ewp8hj3Wjkdh!"
+    }
+  ]
+}

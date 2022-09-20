@@ -1,0 +1,93 @@
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.exe
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\users.json
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.deps.json
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.runtimeconfig.json
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.runtimeconfig.dev.json
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.pdb
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.csproj.AssemblyReference.cache
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.AssemblyInfoInputs.cache
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.AssemblyInfo.cs
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.csproj.CoreCompileInputs.cache
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.csproj.CopyComplete
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.dll
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.pdb
+C:\Users\Elvis Yeboah-Duako\Source\Repos\ms-identity-dotnetcore-b2c-account-management\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.genruntimeconfig.cache
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.exe
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\users.json
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.deps.json
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.runtimeconfig.json
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.runtimeconfig.dev.json
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\b2c-ms-graph.pdb
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.csproj.AssemblyReference.cache
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.AssemblyInfoInputs.cache
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.AssemblyInfo.cs
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.csproj.CoreCompileInputs.cache
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.csproj.CopyComplete
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.dll
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.pdb
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\obj\Debug\netcoreapp3.1\b2c-ms-graph.genruntimeconfig.cache
+C:\Users\Elvis Yeboah-Duako\source\repos\ms-identity-dotnetcore-b2c-account-management - Copy\src\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
