@@ -12,7 +12,7 @@
         }
       ],
       "password": "Nfq;mo9uq;ksewPsdassger!gwr0gverd",
-      "mustResetPassword": true
+      "extension_d56493cacf384efa9e6d89b1a4dcf361_mustResetPassword": "true"
 
     },
     {
@@ -27,7 +27,7 @@
         }
       ],
       "password": "PaSAdhlsaksfwqj;9wmjnte@Authtrans",
-      "mustResetPassword": true
+      "extension_d56493cacf384efa9e6d89b1a4dcf361_mustResetPassword": "true"
 
     },
 
@@ -41,9 +41,8 @@
           "issuerAssignedId": "yeboahelvis770@gmail.com"
         }
       ],
-      "password": "Tumu0376",
-      "extension_d56493ca-cf38-4efa-9e6d-89b1a4dcf361_mustResetPassword": true
-
+      "password": "Tumu0376!",
+      "extension_d56493cacf384efa9e6d89b1a4dcf361_mustResetPassword": "true"
     },
     {
       "displayName": "Manuel Capuccino",
@@ -56,7 +55,7 @@
         }
       ],
       "password": "Mandfqep398fq0iqkiwomoijfoi878nfq23h@#ns",
-      "extension_d56493ca-cf38-4efa-9e6d-89b1a4dcf361_mustResetPassword": true
+      "extension_d56493cacf384efa9e6d89b1a4dcf361_mustResetPassword": "true"
 
     },
     {
@@ -70,7 +69,8 @@
           "issuerAssignedId": "sylvester.ogoe@orgmento.com"
         }
       ],
-      "password": "S1y5ee!ans"
+      "password": "S1y5ee!ans",
+      "extension_d56493cacf384efa9e6d89b1a4dcf361_mustResetPassword": "true"
     },
     {
 
@@ -83,7 +83,8 @@
           "issuerAssignedId": "ayishetu.seidu@orgmento.com"
         }
       ],
-      "password": "1shAdmuj[9e09mqfefqj[e]].0@Ar*s"
+      "password": "1shAdmuj[9e09mqfefqj[e]].0@Ar*s",
+      "extension_d56493cacf384efa9e6d89b1a4dcf361_mustResetPassword": "true"
     },
     {
 
@@ -96,7 +97,8 @@
           "issuerAssignedId": "stephen.basoahdankyi@orgmento.com"
         }
       ],
-      "password": "SBs0sadhfpeaKy!_12345df"
+      "password": "SBs0sadhfpeaKy!_12345df",
+      "extension_d56493cacf384efa9e6d89b1a4dcf361_mustResetPassword": "true"
     },
     {
 
@@ -109,7 +111,8 @@
           "issuerAssignedId": "prince.asihene@orgmento.com"
         }
       ],
-      "password": "M4nD3madkhperihy@ReZu!"
+      "password": "M4nD3madkhperihy@ReZu!",
+      "extension_d56493cacf384efa9e6d89b1a4dcf361_mustResetPassword": "true"
     },
     {
 
@@ -122,7 +125,8 @@
           "issuerAssignedId": "pleasance@ccdc.cam.ac.uk"
         }
       ],
-      "password": "Ta5s*278;hfa;dsahiuh[ewp8hj3Wjkdh!"
+      "password": "Ta5s*278;hfa;dsahiuh[ewp8hj3Wjkdh!",
+      "extension_d56493cacf384efa9e6d89b1a4dcf361_mustResetPassword": "true"
     },
     {
 
@@ -135,7 +139,8 @@
           "issuerAssignedId": "jswift@ccdc.cam.ac.uk"
         }
       ],
-      "password": "Ta5s*278;hfsdfklpdfia;dsahiuh[ewp8hj3Wjkdh!"
+      "password": "Ta5s*278;hfsdfklpdfia;dsahiuh[ewp8hj3Wjkdh!",
+      "extension_d56493cacf384efa9e6d89b1a4dcf361_mustResetPassword": "true"
     }
   ]
 }
